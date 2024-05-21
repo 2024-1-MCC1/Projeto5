@@ -16,6 +16,9 @@
 
 
 <a href="https://ibb.co/pyMwQ8G"><img src="https://i.ibb.co/3zjdvqG/Tela-Inicial.png" alt="Tela-Inicial" border="0"></a>
+<a href="https://www.linkedin.com/in/guimaraes-rafael/">Rafael Alves dos Santos Guimarães RA: 24025724</a>,
+<a href="https://www.linkedin.com/in/guilherme-costa-2854a421a/">Guilherme Melo da Costa RA: 24025906</a>,
+
 
 <br><br>
 O Projeto Interdisciplinar proposto pela FECAP ao Grupo 5 de 1° C.Comp se trata de um jogo feito na Unity e programado em C#, tendo ligação direta com os ODSs da ONU, que são os Objetivos de Desenvolvimento SUstentável, nosso jogo tem a ideia de proteção a vida indígena e a vida nas florestas e reservas que os mesmos habitam, o objetivo do jogo é defender a aldeia indígena de garimpeiros invasores, que tentam invadir seu território. Sua gameplay consiste em um modelo Tower Defense onde os inimigos aparecem em um ponto do mapa e não podem chegar ao final do caminho determinado, o jogador deve posicionar torres de defesa em todo o caminho durante sua gameplay, posicionando-as conforme ganha dinheiro ao eliminar cada inimigo.
@@ -48,4 +51,36 @@ O Projeto Interdisciplinar proposto pela FECAP ao Grupo 5 de 1° C.Comp se trata
    &emsp; &emsp;-> Songs<br>
    &emsp; &emsp;-> Sprites<br>
    &emsp;-> TextMeshPro<br>
+
+## 🗃 Histórico de lançamentos
+* 0.1.0 - 15/05/2024
+    * Jogo Completo
+* 0.0.8 - 13/05/2024
+    * Vida dos Inimigos Alterada
+    * Botão de Como Jogar Adicionado
+* 0.0.7 - 12/05/2024
+    * Win Condition/Lose Condition
+    * Tela de Vitória
+    * Currency Adicionada
+    * Vida Adicionada
+* 0.0.6 - 10/05/2024
+    * Interação dos Botões
+    * Transições de Telas
+    * Mapa Arrumado
+    * Onde Construir a Torre
+    * Loja Comprar a Torre
+    * Spawn de Inimigos Arrumado
+    * Inimigos Arrumados
+* 0.0.5 - 07/05/2024
+    * Câmera arrumada
+    * Botão de Pausa
+    * Torreta Feita
+* 0.0.4 - 24/04/2024
+    * Menu Inicial
+* 0.0.3 - 15/04/2024
+    * Início do Mapa
+* 0.0.2 - 10/04/2024
+    * Spawn de Ondas Inicial
+* 0.0.1 - 10/04/2024
+    * Programação Inicial do Inimigo
 
