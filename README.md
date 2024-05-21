@@ -16,6 +16,8 @@
 
 
 <a href="https://ibb.co/pyMwQ8G"><img src="https://i.ibb.co/3zjdvqG/Tela-Inicial.png" alt="Tela-Inicial" border="0"></a>
+
+
 <a href="https://www.linkedin.com/in/guimaraes-rafael/">Rafael Alves dos Santos Guimarães RA: 24025724</a>,
 <a href="https://www.linkedin.com/in/guilherme-costa-2854a421a/">Guilherme Melo da Costa RA: 24025906</a>,
 
