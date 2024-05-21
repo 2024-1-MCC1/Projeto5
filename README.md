@@ -8,7 +8,7 @@
 
 ## Grupo 5 Amigos da FUNAI
 
-## Integrantes: Guilherme Melo da Costa, Daniel Kyoshi Moribe, Rafael Alves, Marcelo Gonçalves da Silva Junior
+## Integrantes: Guilherme Melo da Costa, Daniel Kyoshi Moribe, Rafael Alves dos Santos Guimarães, Marcelo Gonçalves da Silva Junior
 
 ## Orientadores: Prof. Victor Quiroz, Prof. Fabiano Alves Onça, Prof. Adriano Felix
 
