@@ -8,9 +8,11 @@
 
 ##Grupo 5 Amigos da FUNAI
 ##Integrantes: Guilherme Melo da Costa, Daniel Kyoshi Moribe, Rafael Alves, Marcelo Gonçalves da Silva Junior
-##Orientadores: Prof. Victor Quiroz, Prof. Fabiano Alves Onça
+##Orientadores: Prof. Victor Quiroz, Prof. Fabiano Alves Onça, Prof. Adriano Felix
 
 ##Descrição
+
+
 <a href="https://ibb.co/pyMwQ8G"><img src="https://i.ibb.co/3zjdvqG/Tela-Inicial.png" alt="Tela-Inicial" border="0"></a>
 
 <br><br>
