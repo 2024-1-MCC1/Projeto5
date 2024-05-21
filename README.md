@@ -19,7 +19,7 @@
 
 
 <a href="https://www.linkedin.com/in/guimaraes-rafael/">Rafael Alves dos Santos Guimarães RA: 24025724</a>,
-<a href="https://www.linkedin.com/in/guilherme-costa-2854a421a/">Guilherme Melo da Costa RA: 24025906</a>,
+<a href="https://www.linkedin.com/in/guilherme-costa-2854a421a/">Guilherme Melo da Costa RA: 24025906</a>.
 
 
 <br><br>
