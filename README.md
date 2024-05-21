@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Projeto Interdisciplinar - Muralha da Vila
+# Projeto Interdisciplinar - Muralha da ALdeia
 
 ## Grupo 5 Amigos da FUNAI
 
@@ -87,4 +87,8 @@ O Projeto Interdisciplinar proposto pela FECAP ao Grupo 5 de 1° C.Comp se trata
     * Spawn de Ondas Inicial
 * 0.0.1 - 10/04/2024
     * Programação Inicial do Inimigo
+# Referências
 
+## Estrututação Geral do jogo:
+1. <https://www.youtube.com/playlist?list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk>
+2. <https://www.youtube.com/playlist?list=PLEvnA6UOOVbnOcpQFcW9eFCE1KQ6cdyVI>
