@@ -20,29 +20,30 @@ O Projeto Interdisciplinar proposto pela FECAP ao Grupo 5 de 1° C.Comp se trata
 <br><br>
 
 #Documentação 
--> Assets
-  -> Prefabs
-    -> Entities
-      -> Enemies
-    -> Turrets
-  -> Rendering
-    -> Material
-      -> Entities
-        -> Enemies 
-          -> Basic
-      ->MapMaterials
-        -> Level 1
-  -> Resources
-    -> Enemies
-    -> Turrets
-  -> Scenes
-  -> Scripts
-    -> Classes
-      -> Enemies
-      -> Game
-      -> Player
-      -> ScriptableObjectsSources
-    -> Songs
-    -> Sprites
-  -> TextMeshPro
+-> Assets <br>
+<br>
+   &emsp;-> Prefabs<br>
+   &emsp;  -> Entities<br>
+    &emsp; &emsp;-> Enemies<br>
+   &emsp; &emsp;-> Turrets<br>
+   &emsp;-> Rendering<br>
+  &emsp; &emsp;-> Material<br>
+   &emsp; &emsp; &emsp;-> Entities<br>
+   &emsp; &emsp; &emsp; &emsp;-> Enemies <br>
+   &emsp; &emsp; &emsp; &emsp;-> Basic<br>
+   &emsp; &emsp; &emsp;->MapMaterials<br>
+   &emsp; &emsp; &emsp; &emsp;-> Level 1<br>
+   &emsp;-> Resources<br>
+  &emsp; &emsp;-> Enemies<br>
+   &emsp; &emsp;-> Turrets<br>
+   &emsp;-> Scenes<br>
+   &emsp;-> Scripts<br>
+   &emsp; &emsp;-> Classes<br>
+   &emsp; &emsp; &emsp;-> Enemies<br>
+   &emsp; &emsp; &emsp;-> Game<br>
+   &emsp; &emsp; &emsp;-> Player<br>
+   &emsp; &emsp; &emsp;-> ScriptableObjectsSources<br>
+   &emsp; &emsp;-> Songs<br>
+   &emsp; &emsp;-> Sprites<br>
+   &emsp;-> TextMeshPro<br>
 
