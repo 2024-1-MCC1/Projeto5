@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Projeto Interdisciplinar - Muralha da ALdeia
+# Projeto Interdisciplinar - Muralha da Aldeia
 
 ## Grupo 5 Amigos da FUNAI
 
@@ -72,6 +72,8 @@ Para a proteção tanto dos povos indígenas quanto da vida nas florestas é nec
 
 <a href="https://www.linkedin.com/in/guimaraes-rafael/">Rafael Alves dos Santos Guimarães RA: 24025724</a>,
 <a href="https://www.linkedin.com/in/guilherme-costa-2854a421a/">Guilherme Melo da Costa RA: 24025906</a>.
+<a href="https://br.linkedin.com/in/marcelo-gon%C3%A7alves-da-silva-j%C3%BAnior-a8b8a9234">Marcelo Gonçalves da Silva Júnior RA: 24026511</a>.
+<a href="https://br.linkedin.com/in/daniel-moribe-501589304">Daniel Kyoshi Moribe RA: 24026509</a>.
 
 
 <br><br>
