@@ -18,7 +18,7 @@
 
 ## Objetivos do Desenvolvimento Sustentável
 
-## Descrição
+## Objetivos do Desenvolvimento Sustentável
 ●	1- Erradicação da Pobreza
 ●	2- Fome Zero
 ●	3- Saúde e Bem Estar ✓ 
