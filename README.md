@@ -169,3 +169,13 @@ O projeto conseguiu expor de forma eficaz o problema central da necessidade de c
 ## Estrututação Geral do jogo:
 1. <https://www.youtube.com/playlist?list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk>
 2. <https://www.youtube.com/playlist?list=PLEvnA6UOOVbnOcpQFcW9eFCE1KQ6cdyVI>
+3. <https://www.youtube.com/watch?v=yIaAE9bLxXI>
+4. <https://www.youtube.com/watch?v=Cq_Nnw_LwnI>
+5. <https://www.youtube.com/watch?v=DX7HyN7oJjE>
+6. <https://www.youtube.com/watch?v=XTJEgWcHd2o>
+   
+## Arte do jogo:
+1. Rafael Alves dos Santos Guimarães
+2. Luiza Carvalho Pelorca
+3. Midjourney by OpenArt.AI
+
