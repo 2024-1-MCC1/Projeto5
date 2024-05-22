@@ -12,7 +12,47 @@
 
 ## Orientadores: Prof. Victor Quiroz, Prof. Fabiano Alves Onça, Prof. Adriano Felix
 
+## Curso: Ciência da Computação 1° Semestre Matutino
+
+## Linha de Atuação: Projeto Interdisciplinar
+
+## Objetivos do Desenvolvimento Sustentável
+
 ## Descrição
+●	1- Erradicação da Pobreza
+●	2- Fome Zero
+●	3- Saúde e Bem Estar ✓ 
+●	4- Educação de Qualidade
+●	5- Igualdade de Gênero
+●	6- Água Potável e Saneamento ✓ 
+●	7- Energia Limpa e Acessível
+●	8- Trabalho Decente e Crescimento Econômico
+●	9- Indústria, Inovação e Infraestrutura
+●	10- Redução das Desigualdades ✓ 
+●	11-Cidades e Comunidades Sustentáveis ✓ 
+●	12- Consumo e Produção Responsáveis
+●	13- Ação Contra a Mudança Global do Clima
+●	14- Vida na Água ✓ 
+●	15- Vida Terrestre ✓ 
+●	16- Paz, Justiça e Instituições Eficazes ✓ 
+●	17- Parcerias e Meios de Implementação
+
+## Tipo de Projeto
+●	Atividade de Extensão não implementado na prática (proposta de intervenção) ✓ 
+●	Atividade de Extensão implementado na prática (intervenção executada)
+
+## Tema gerador
+
+# IDENTIFICAÇÃO DO CENÁRIO DE INTERVENÇÃO E HIPÓTESES DE SOLUÇÃO
+
+## Local (cenário) previsto para a implementação do projeto
+
+## Público-alvo a ser atendido pelo projeto
+
+## Apresentação do(s) problema(s) observado(s) e delimitação do objeto de estudo e intervenção
+
+## Definição de hipóteses para a solução do problema observado
+
 
 
 <a href="https://ibb.co/pyMwQ8G"><img src="https://i.ibb.co/3zjdvqG/Tela-Inicial.png" alt="Tela-Inicial" border="0"></a>
