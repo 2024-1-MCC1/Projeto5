@@ -83,6 +83,19 @@ Para a proteção tanto dos povos indígenas quanto da vida nas florestas é nec
 O Projeto Interdisciplinar proposto pela FECAP ao Grupo 5 de 1° C.Comp se trata de um jogo feito na Unity e programado em C#, tendo ligação direta com os ODSs da ONU, que são os Objetivos de Desenvolvimento SUstentável, nosso jogo tem a ideia de proteção a vida indígena e a vida nas florestas e reservas que os mesmos habitam, o objetivo do jogo é defender a aldeia indígena de garimpeiros invasores, que tentam invadir seu território. Sua gameplay consiste em um modelo Tower Defense onde os inimigos aparecem em um ponto do mapa e não podem chegar ao final do caminho determinado, o jogador deve posicionar torres de defesa em todo o caminho durante sua gameplay, posicionando-as conforme ganha dinheiro ao eliminar cada inimigo.
 <br><br>
 ## Introdução 
+A proteção dos territórios indígenas é uma questão importante no mundo moderno, pois envolve questões sociais e culturais e não apenas questões ambientais. A preservação desses locais protege a biodiversidade única e as culturas dos povos ancestrais. A Convenção 169 da Organização Internacional do Trabalho (OIT) afirma que os povos indígenas têm o direito fundamental de manter o controle sobre suas terras e recursos naturais. Mas interesses econômicos que buscam explorar os recursos naturais desses locais frequentemente desafiam esses direitos. Diante disso, é fundamental criar planos eficazes para conscientizar a sociedade sobre a importância de preservar as terras indígenas. 
+
+## Objetivos
+Com o desenvolvimento da Muralha da Aldeia o grupo 5 tem como objetivo atingir e conscientizar o público de uma maneira cativante e inovadora, visto que um jogo desperta muito mais interesse do público jovem do que uma palestra ou aula sobre o tópico.
+
+## Métodos
+A implementação da ação extensionista para promover a conscientização sobre a proteção de territórios indígenas através do jogo envolverá uma série de métodos e estratégias interativas. Com base nessas interações, o jogo será desenvolvido de forma a representar de maneira autêntica e respeitosa as questões enfrentadas pelas comunidades indígenas, destacando a importância de preservar seus territórios contra invasões e exploração descontrolada. Além disso, seria ideal  organizar sessões de gameplay em escolas, centros comunitários e eventos culturais, onde os participantes terão a oportunidade de experimentar o jogo e refletir sobre suas mensagens e lições.
+
+## Resultados
+O resultado esperado para a lançamento do jogo é a conscientização das pessoas em relação a situação do povo indigena pelo Brasil que tem tido seu território invadido repetidas vezes durante toda a história do Brasil.
+
+## Considerações Finais
+O projeto conseguiu expor de forma eficaz o problema central da necessidade de conscientização sobre a proteção dos territórios indígenas, utilizando um jogo educativo interativo como ferramenta de conscientização. Ao longo da implementação do projeto houve uma maior conscientização e comprometimento da sociedade com os problemas enfrentados pelas comunidades indígenas na proteção de seus territórios. Os pontos-chave alcançados incluem a promoção de diálogos significativos, uma melhor compreensão dos direitos indígenas e uma apreciação da importância da conservação ambiental. Porém, para garantir um impacto sustentável no longo prazo, é essencial continuar investindo em iniciativas de conscientização e educação, ampliando o alcance do jogo para diferentes públicos e regiões. Além disso, é fundamental promover parcerias com organizações indígenas e governamentais, visando fortalecer as políticas de proteção dos territórios indígenas e garantir a efetivação dos direitos dessas comunidades. Assim, este projeto serve como ponto de partida para futuras ações que visem promover a justiça social, a preservação ambiental e o respeito aos direitos humanos das comunidades indígenas.
 
 
 # Documentação 
