@@ -132,7 +132,10 @@ O projeto conseguiu expor de forma eficaz o problema central da necessidade de c
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o Muralha da Aldeia.exe na pasta executáveis e execute-o como qualquer outro programa.
+```sh
+https://github.com/2024-1-MCC1/Projeto5/blob/main/Muralha%20da%20Aldeia/Muralha%20da%20Aldeia.exe
+```
 
 ## 🗃 Histórico de lançamentos
 * 0.1.0 - 15/05/2024
