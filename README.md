@@ -38,25 +38,31 @@ Marcelo Gonçalves da Silva Junior 24026511<br>
 ●	13- Ação Contra a Mudança Global do Clima<br>
 ●	14- Vida na Água ✓ <br>
 ●	15- Vida Terrestre ✓ <br>
-●	16- Paz, Justiça e Instituições Eficazes ✓ 
-●	17- Parcerias e Meios de Implementação
+●	16- Paz, Justiça e Instituições Eficazes ✓ <br>
+●	17- Parcerias e Meios de Implementação <br>
 
 ## Tipo de Projeto
-●	Atividade de Extensão não implementado na prática (proposta de intervenção) ✓ 
-●	Atividade de Extensão implementado na prática (intervenção executada)
+●	Atividade de Extensão não implementado na prática (proposta de intervenção) ✓ <br>
+●	Atividade de Extensão implementado na prática (intervenção executada) <br>
 
 ## Tema gerador
 
 # IDENTIFICAÇÃO DO CENÁRIO DE INTERVENÇÃO E HIPÓTESES DE SOLUÇÃO
 
 ## Local (cenário) previsto para a implementação do projeto
+Ao ser publicado o jogo poderia ser colocado para o publico infanto-juvenil nas escolas como uma maneira de conscientiza-los sobre o que acontece com as comunidades indígenas de uma maneira interativa, dessa forma a atenção dos jovens será voltada para o tópico de maneira mais eficiente e assim poderão estudar por cota sobre o assunto e elevar o senso cultural do brasileiro sobre seu próprio país.
 
 ## Público-alvo a ser atendido pelo projeto
+O público que pretendemos atingir é ao mesmo tempo os entusiastas de Tower Defense e aqueles interessados nos tópicos de preservação da natureza e questões sociais associadas aos indigenas, que ganharam muita força desde o escândalo da comunidade yanomami no final da pandemia até hoje.
 
 ## Apresentação do(s) problema(s) observado(s) e delimitação do objeto de estudo e intervenção
+A questão da proteção dos povos indígenas representa um desafio amplo que requer uma abordagem multifatorial. Os problemas observados incluem a perda de território, a degradação ambiental, a violação dos direitos humanos e culturais, bem como a falta de acesso a serviços básicos como saúde e educação. Neste contexto, a delimitação do objeto de estudo e intervenção se concentra na garantia da proteção dos direitos territoriais e culturais dos povos indígenas, promovendo sua participação efetiva na tomada de decisões que afetam suas comunidades e seu ambiente. Esta intervenção visa contribuir para a consecução de diversos Objetivos de Desenvolvimento Sustentável (ODS) da ONU, como o ODS 3 (Saúde e Bem-Estar), ODS 6 (Água Potável e Saneamento), ODS 10 (Redução das Desigualdades), ODS 14 (Vida na Água), ODS 15 (Vida Terrestre) e o ODS 16 (Paz, Justiça e Instituições Eficazes), reconhecendo a interseccionalidade desses desafios e a necessidade de abordagens integradas para sua resolução.
 
 ## Definição de hipóteses para a solução do problema observado
 
+Para a proteção tanto dos povos indígenas quanto da vida nas florestas é necessário primeiro uma legislação severa afim de punir os garimpeiros e desmatadores presos mas acima de tudo punir exemplarmente os mandantes desses violadores, pois são eles que financiam toda a exploração e muitas vezes os olhos ficam virados apenas para os peões. Além disso também é muito importante o fortalecimento de instituições responsáveis pela proteção desses territórios como a Comissão Guarani Yvyrupa (CGY) e a Associação de Defesa Etnoambiental Kanindé.
+
+# Descrição do Projeto
 
 
 <a href="https://ibb.co/pyMwQ8G"><img src="https://i.ibb.co/3zjdvqG/Tela-Inicial.png" alt="Tela-Inicial" border="0"></a>
@@ -69,8 +75,13 @@ Marcelo Gonçalves da Silva Junior 24026511<br>
 
 
 <br><br>
+
+## Resumo
+
 O Projeto Interdisciplinar proposto pela FECAP ao Grupo 5 de 1° C.Comp se trata de um jogo feito na Unity e programado em C#, tendo ligação direta com os ODSs da ONU, que são os Objetivos de Desenvolvimento SUstentável, nosso jogo tem a ideia de proteção a vida indígena e a vida nas florestas e reservas que os mesmos habitam, o objetivo do jogo é defender a aldeia indígena de garimpeiros invasores, que tentam invadir seu território. Sua gameplay consiste em um modelo Tower Defense onde os inimigos aparecem em um ponto do mapa e não podem chegar ao final do caminho determinado, o jogador deve posicionar torres de defesa em todo o caminho durante sua gameplay, posicionando-as conforme ganha dinheiro ao eliminar cada inimigo.
 <br><br>
+## Introdução 
+
 
 # Documentação 
 -> Assets <br>
