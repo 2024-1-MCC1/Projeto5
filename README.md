@@ -8,7 +8,11 @@
 
 ## Grupo 5 Amigos da FUNAI
 
-## Integrantes: Guilherme Melo da Costa, Daniel Kyoshi Moribe, Rafael Alves dos Santos Guimarães, Marcelo Gonçalves da Silva Junior
+## Integrantes:<br>
+Guilherme Melo da Costa 24025906 <br> 
+Daniel Kyoshi Moribe 24026509<br>
+Rafael Alves dos Santos Guimarães 24025724<br>
+Marcelo Gonçalves da Silva Junior 24026511<br>
 
 ## Orientadores: Prof. Victor Quiroz, Prof. Fabiano Alves Onça, Prof. Adriano Felix
 
@@ -19,21 +23,21 @@
 ## Objetivos do Desenvolvimento Sustentável
 
 ## Objetivos do Desenvolvimento Sustentável
-●	1- Erradicação da Pobreza
-●	2- Fome Zero
-●	3- Saúde e Bem Estar ✓ 
-●	4- Educação de Qualidade
-●	5- Igualdade de Gênero
-●	6- Água Potável e Saneamento ✓ 
-●	7- Energia Limpa e Acessível
-●	8- Trabalho Decente e Crescimento Econômico
-●	9- Indústria, Inovação e Infraestrutura
-●	10- Redução das Desigualdades ✓ 
-●	11-Cidades e Comunidades Sustentáveis ✓ 
-●	12- Consumo e Produção Responsáveis
-●	13- Ação Contra a Mudança Global do Clima
-●	14- Vida na Água ✓ 
-●	15- Vida Terrestre ✓ 
+●	1- Erradicação da Pobreza <br>
+●	2- Fome Zero<br>
+●	3- Saúde e Bem Estar ✓ <br>
+●	4- Educação de Qualidade<br>
+●	5- Igualdade de Gênero<br>
+●	6- Água Potável e Saneamento ✓ <br>
+●	7- Energia Limpa e Acessível<br>
+●	8- Trabalho Decente e Crescimento Econômico<br>
+●	9- Indústria, Inovação e Infraestrutura<br>
+●	10- Redução das Desigualdades ✓ <br>
+●	11-Cidades e Comunidades Sustentáveis ✓ <br>
+●	12- Consumo e Produção Responsáveis<br>
+●	13- Ação Contra a Mudança Global do Clima<br>
+●	14- Vida na Água ✓ <br>
+●	15- Vida Terrestre ✓ <br>
 ●	16- Paz, Justiça e Instituições Eficazes ✓ 
 ●	17- Parcerias e Meios de Implementação
 
