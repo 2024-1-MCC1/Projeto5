@@ -110,6 +110,8 @@ O Projeto Interdisciplinar proposto pela FECAP ao Grupo 5 de 1° C.Comp se trata
    &emsp; &emsp;-> Songs<br>
    &emsp; &emsp;-> Sprites<br>
    &emsp;-> TextMeshPro<br>
+   &emsp;-> Documentos<br>
+   &emsp;-> Muralha da Aldeia<br>
 
 ## 🗃 Histórico de lançamentos
 * 0.1.0 - 15/05/2024
