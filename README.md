@@ -25,15 +25,15 @@ Marcelo Gonçalves da Silva Junior 24026511<br>
 ## Objetivos do Desenvolvimento Sustentável
 ●	1- Erradicação da Pobreza <br>
 ●	2- Fome Zero<br>
-●	3- Saúde e Bem Estar ✓ <br>
+●	3- Saúde e Bem Estar <br>
 ●	4- Educação de Qualidade<br>
 ●	5- Igualdade de Gênero<br>
-●	6- Água Potável e Saneamento ✓ <br>
+●	6- Água Potável e Saneamento <br>
 ●	7- Energia Limpa e Acessível<br>
 ●	8- Trabalho Decente e Crescimento Econômico<br>
 ●	9- Indústria, Inovação e Infraestrutura<br>
 ●	10- Redução das Desigualdades ✓ <br>
-●	11-Cidades e Comunidades Sustentáveis ✓ <br>
+●	11-Cidades e Comunidades Sustentáveis <br>
 ●	12- Consumo e Produção Responsáveis<br>
 ●	13- Ação Contra a Mudança Global do Clima<br>
 ●	14- Vida na Água ✓ <br>
