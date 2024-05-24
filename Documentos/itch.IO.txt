@@ -1,0 +1,6 @@
+Nome: Muralha da Aldeia
+Descrição:
+
+A gameplay consiste em um modelo Tower Defense onde os inimigos aparecem em um ponto do mapa e não podem chegar ao final do caminho determinado, o jogador deve posicionar torres de defesa em todo o caminho durante sua gameplay, posicionando-as conforme ganha dinheiro ao eliminar cada inimigo.
+
+Tags: Estratégia, Aventura
