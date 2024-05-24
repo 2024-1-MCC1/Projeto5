@@ -109,7 +109,7 @@ O projeto conseguiu expor de forma eficaz o problema central da necessidade de c
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
-  &emsp;&emsp;|-->MenuJogosDigitais<br>
+  &emsp;&emsp;|-->Menu Projeto Jogos Digitais<br>
 |readme.md<br>
 
 ## 🛠 Instalação
