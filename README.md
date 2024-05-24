@@ -14,7 +14,7 @@ Daniel Kyoshi Moribe 24026509<br>
 Rafael Alves dos Santos Guimarães 24025724<br>
 Marcelo Gonçalves da Silva Junior 24026511<br>
 
-## Orientadores: Prof. Victor Quiroz, Prof. Fabiano Alves Onça, Prof. Adriano Felix
+## Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Quiroz</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Prof. Fabiano Alves Onça</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Prof. Adriano Felix</a>
 
 ## Curso: Ciência da Computação 1° Semestre Matutino
 
