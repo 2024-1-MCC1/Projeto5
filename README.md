@@ -98,35 +98,19 @@ O resultado esperado para a lançamento do jogo é a conscientização das pesso
 O projeto conseguiu expor de forma eficaz o problema central da necessidade de conscientização sobre a proteção dos territórios indígenas, utilizando um jogo educativo interativo como ferramenta de conscientização. Ao longo da implementação do projeto houve uma maior conscientização e comprometimento da sociedade com os problemas enfrentados pelas comunidades indígenas na proteção de seus territórios. Os pontos-chave alcançados incluem a promoção de diálogos significativos, uma melhor compreensão dos direitos indígenas e uma apreciação da importância da conservação ambiental. Porém, para garantir um impacto sustentável no longo prazo, é essencial continuar investindo em iniciativas de conscientização e educação, ampliando o alcance do jogo para diferentes públicos e regiões. Além disso, é fundamental promover parcerias com organizações indígenas e governamentais, visando fortalecer as políticas de proteção dos territórios indígenas e garantir a efetivação dos direitos dessas comunidades. Assim, este projeto serve como ponto de partida para futuras ações que visem promover a justiça social, a preservação ambiental e o respeito aos direitos humanos das comunidades indígenas.
 
 
-## Documentação 
--> Assets <br>
-<br>
-   &emsp;-> Prefabs<br>
-   &emsp;  -> Entities<br>
-    &emsp; &emsp;-> Enemies<br>
-   &emsp; &emsp;-> Turrets<br>
-   &emsp;-> Rendering<br>
-  &emsp; &emsp;-> Material<br>
-   &emsp; &emsp; &emsp;-> Entities<br>
-   &emsp; &emsp; &emsp; &emsp;-> Enemies <br>
-   &emsp; &emsp; &emsp; &emsp;-> Basic<br>
-   &emsp; &emsp; &emsp;->MapMaterials<br>
-   &emsp; &emsp; &emsp; &emsp;-> Level 1<br>
-   &emsp;-> Resources<br>
-  &emsp; &emsp;-> Enemies<br>
-   &emsp; &emsp;-> Turrets<br>
-   &emsp;-> Scenes<br>
-   &emsp;-> Scripts<br>
-   &emsp; &emsp;-> Classes<br>
-   &emsp; &emsp; &emsp;-> Enemies<br>
-   &emsp; &emsp; &emsp;-> Game<br>
-   &emsp; &emsp; &emsp;-> Player<br>
-   &emsp; &emsp; &emsp;-> ScriptableObjectsSources<br>
-   &emsp; &emsp;-> Songs<br>
-   &emsp; &emsp;-> Sprites<br>
-   &emsp;-> TextMeshPro<br>
-   &emsp;-> Documentos<br>
-   &emsp;-> Muralha da Aldeia<br>
+## 🛠 Estrutura de pastas
+
+-Raiz<br>
+|<br>
+|-->documentos<br>
+|-->executáveis<br>
+  &emsp;|-->windows<br>
+|-->imagens<br>
+|-->src<br>
+  &emsp;|-->Backend<br>
+  &emsp;|-->Frontend<br>
+  &emsp;&emsp;|-->Menu Projeto Jogos Digitais<br>
+|readme.md<br>
 
 ## 🛠 Instalação
 <b>Windows:</b>
