@@ -9,58 +9,12 @@
 ## Grupo 5 Amigos da FUNAI
 
 ## Integrantes:<br>
-Guilherme Melo da Costa 24025906 <br> 
-Daniel Kyoshi Moribe 24026509<br>
-Rafael Alves dos Santos Guimarães 24025724<br>
-Marcelo Gonçalves da Silva Junior 24026511<br>
+Guilherme Melo da Costa RA:24025906 <br> 
+Daniel Kyoshi Moribe RA:24026509<br>
+Rafael Alves dos Santos Guimarães RA:24025724<br>
+Marcelo Gonçalves da Silva Junior RA:24026511<br>
 
 ## Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Quiroz</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Prof. Fabiano Alves Onça</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Prof. Adriano Felix</a>
-
-## Curso: Ciência da Computação 1° Semestre Matutino
-
-## Linha de Atuação: Projeto Interdisciplinar
-
-## Objetivos do Desenvolvimento Sustentável
-
-## Objetivos do Desenvolvimento Sustentável
-●	1- Erradicação da Pobreza <br>
-●	2- Fome Zero<br>
-●	3- Saúde e Bem Estar <br>
-●	4- Educação de Qualidade<br>
-●	5- Igualdade de Gênero<br>
-●	6- Água Potável e Saneamento <br>
-●	7- Energia Limpa e Acessível<br>
-●	8- Trabalho Decente e Crescimento Econômico<br>
-●	9- Indústria, Inovação e Infraestrutura<br>
-●	10- Redução das Desigualdades ✓ <br>
-●	11-Cidades e Comunidades Sustentáveis <br>
-●	12- Consumo e Produção Responsáveis<br>
-●	13- Ação Contra a Mudança Global do Clima<br>
-●	14- Vida na Água ✓ <br>
-●	15- Vida Terrestre ✓ <br>
-●	16- Paz, Justiça e Instituições Eficazes ✓ <br>
-●	17- Parcerias e Meios de Implementação <br>
-
-## Tipo de Projeto
-●	Atividade de Extensão não implementado na prática (proposta de intervenção) ✓ <br>
-●	Atividade de Extensão implementado na prática (intervenção executada) <br>
-
-## Tema gerador
-
-# IDENTIFICAÇÃO DO CENÁRIO DE INTERVENÇÃO E HIPÓTESES DE SOLUÇÃO
-
-## Local (cenário) previsto para a implementação do projeto
-Ao ser publicado o jogo poderia ser colocado para o publico infanto-juvenil nas escolas como uma maneira de conscientiza-los sobre o que acontece com as comunidades indígenas de uma maneira interativa, dessa forma a atenção dos jovens será voltada para o tópico de maneira mais eficiente e assim poderão estudar por cota sobre o assunto e elevar o senso cultural do brasileiro sobre seu próprio país.
-
-## Público-alvo a ser atendido pelo projeto
-O público que pretendemos atingir é ao mesmo tempo os entusiastas de Tower Defense e aqueles interessados nos tópicos de preservação da natureza e questões sociais associadas aos indigenas, que ganharam muita força desde o escândalo da comunidade yanomami no final da pandemia até hoje.
-
-## Apresentação do(s) problema(s) observado(s) e delimitação do objeto de estudo e intervenção
-A questão da proteção dos povos indígenas representa um desafio amplo que requer uma abordagem multifatorial. Os problemas observados incluem a perda de território, a degradação ambiental, a violação dos direitos humanos e culturais, bem como a falta de acesso a serviços básicos como saúde e educação. Neste contexto, a delimitação do objeto de estudo e intervenção se concentra na garantia da proteção dos direitos territoriais e culturais dos povos indígenas, promovendo sua participação efetiva na tomada de decisões que afetam suas comunidades e seu ambiente. Esta intervenção visa contribuir para a consecução de diversos Objetivos de Desenvolvimento Sustentável (ODS) da ONU, como o ODS 3 (Saúde e Bem-Estar), ODS 6 (Água Potável e Saneamento), ODS 10 (Redução das Desigualdades), ODS 14 (Vida na Água), ODS 15 (Vida Terrestre) e o ODS 16 (Paz, Justiça e Instituições Eficazes), reconhecendo a interseccionalidade desses desafios e a necessidade de abordagens integradas para sua resolução.
-
-## Definição de hipóteses para a solução do problema observado
-
-Para a proteção tanto dos povos indígenas quanto da vida nas florestas é necessário primeiro uma legislação severa afim de punir os garimpeiros e desmatadores presos mas acima de tudo punir exemplarmente os mandantes desses violadores, pois são eles que financiam toda a exploração e muitas vezes os olhos ficam virados apenas para os peões. Além disso também é muito importante o fortalecimento de instituições responsáveis pela proteção desses territórios como a Comissão Guarani Yvyrupa (CGY) e a Associação de Defesa Etnoambiental Kanindé.
 
 # Descrição do Projeto
 
@@ -81,20 +35,7 @@ Para a proteção tanto dos povos indígenas quanto da vida nas florestas é nec
 ## Resumo
 
 O Projeto Interdisciplinar proposto pela FECAP ao Grupo 5 de 1° C.Comp se trata de um jogo feito na Unity e programado em C#, tendo ligação direta com os ODSs da ONU, que são os Objetivos de Desenvolvimento SUstentável, nosso jogo tem a ideia de proteção a vida indígena e a vida nas florestas e reservas que os mesmos habitam, o objetivo do jogo é defender a aldeia indígena de garimpeiros invasores, que tentam invadir seu território. Sua gameplay consiste em um modelo Tower Defense onde os inimigos aparecem em um ponto do mapa e não podem chegar ao final do caminho determinado, o jogador deve posicionar torres de defesa em todo o caminho durante sua gameplay, posicionando-as conforme ganha dinheiro ao eliminar cada inimigo.
-<br><br>
-## Introdução 
-A proteção dos territórios indígenas é uma questão importante no mundo moderno, pois envolve questões sociais e culturais e não apenas questões ambientais. A preservação desses locais protege a biodiversidade única e as culturas dos povos ancestrais. A Convenção 169 da Organização Internacional do Trabalho (OIT) afirma que os povos indígenas têm o direito fundamental de manter o controle sobre suas terras e recursos naturais. Mas interesses econômicos que buscam explorar os recursos naturais desses locais frequentemente desafiam esses direitos. Diante disso, é fundamental criar planos eficazes para conscientizar a sociedade sobre a importância de preservar as terras indígenas. 
 
-## Objetivos
-Com o desenvolvimento da Muralha da Aldeia o grupo 5 tem como objetivo atingir e conscientizar o público de uma maneira cativante e inovadora, visto que um jogo desperta muito mais interesse do público jovem do que uma palestra ou aula sobre o tópico.
-
-## Métodos
-A implementação da ação extensionista para promover a conscientização sobre a proteção de territórios indígenas através do jogo envolverá uma série de métodos e estratégias interativas. Com base nessas interações, o jogo será desenvolvido de forma a representar de maneira autêntica e respeitosa as questões enfrentadas pelas comunidades indígenas, destacando a importância de preservar seus territórios contra invasões e exploração descontrolada. Além disso, seria ideal  organizar sessões de gameplay em escolas, centros comunitários e eventos culturais, onde os participantes terão a oportunidade de experimentar o jogo e refletir sobre suas mensagens e lições.
-
-## Resultados
-O resultado esperado para a lançamento do jogo é a conscientização das pessoas em relação a situação do povo indigena pelo Brasil que tem tido seu território invadido repetidas vezes durante toda a história do Brasil.
-
-## Considerações Finais
 O projeto conseguiu expor de forma eficaz o problema central da necessidade de conscientização sobre a proteção dos territórios indígenas, utilizando um jogo educativo interativo como ferramenta de conscientização. Ao longo da implementação do projeto houve uma maior conscientização e comprometimento da sociedade com os problemas enfrentados pelas comunidades indígenas na proteção de seus territórios. Os pontos-chave alcançados incluem a promoção de diálogos significativos, uma melhor compreensão dos direitos indígenas e uma apreciação da importância da conservação ambiental. Porém, para garantir um impacto sustentável no longo prazo, é essencial continuar investindo em iniciativas de conscientização e educação, ampliando o alcance do jogo para diferentes públicos e regiões. Além disso, é fundamental promover parcerias com organizações indígenas e governamentais, visando fortalecer as políticas de proteção dos territórios indígenas e garantir a efetivação dos direitos dessas comunidades. Assim, este projeto serve como ponto de partida para futuras ações que visem promover a justiça social, a preservação ambiental e o respeito aos direitos humanos das comunidades indígenas.
 
 
@@ -170,6 +111,4 @@ https://github.com/2024-1-MCC1/Projeto5/blob/main/Muralha%20da%20Aldeia/Muralha%
    
 ## Arte do jogo:
 1. Rafael Alves dos Santos Guimarães
-2. Luiza Carvalho Pelorca
-3. Midjourney by OpenArt.AI
 
